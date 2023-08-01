@@ -4,7 +4,7 @@ TV Series Organizer is a C# application designed to automate the process of orga
 
 ## Example
 
-https://github.com/Ascensao/plate-vision/assets/8701603/236a2e8e-5385-4b72-ad72-ba25ee669f32
+https://github.com/Ascensao/TV-Series-Organizer/assets/8701603/1d113aaf-8c05-49e5-9b91-5886a46a65ea
 
 ## Features
 
