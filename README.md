@@ -1,5 +1,7 @@
 # TV Series Organizer
 
+![tv_logo_header](https://github.com/Ascensao/TV-Series-Organizer/assets/8701603/a93ce171-9bbe-4906-b367-2962828fdbfc)
+
 TV Series Organizer is a C# application designed to automate the process of organizing your TV series collections. It cleans and structures the directories of your TV series, providing a clean, consistent, and convenient file structure
 
 ## Example
@@ -15,8 +17,10 @@ https://github.com/Ascensao/TV-Series-Organizer/assets/8701603/1d113aaf-8c05-49e
 5. **Folder Removal:** Deletes the "Subs" folder after the subtitle files have been moved.
 
 ## Usage
+![tv_icon_rounded](https://github.com/Ascensao/TV-Series-Organizer/assets/8701603/b4b8dbd1-c984-4967-8af4-a2ac883b98b4)
 
-1. Execute the .exe file located at `\TV-Series-Organizer\bin\Debug\net6.0-windows\tv_series_files_organizer.exe`.
+1. Execute the .exe file located at `\TV-Series-Organizer\bin\Debug\net6.0-windows\tv_series_files_organizer.exe`. 
+
 2. Drag and drop your TV series season folder into the application, and it will organize all episodes into sub-folders.
 
 
@@ -31,3 +35,5 @@ Contributions are more than welcome! Please fork the repository and create a Pul
 ## License
 
 This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
+
+<a href="https://www.buymeacoffee.com/ascensao1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
